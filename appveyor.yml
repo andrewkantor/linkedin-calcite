@@ -22,7 +22,7 @@ clone_depth: 10000
 clone_folder: C:\projects\calcite +
 # branches to build
 branches:
-  # whitelist
+  # allow list
   only:
     - master
     - new-master
